@@ -1,0 +1,28 @@
+iPhone 5s,Modulo:$1,Bateria:$2,Tapa trasera:$3,Camara:$4,Codec de Audio:$5, Mantenimiento:$5,No prende.No carga:$6,Mojado:A confirmar.,Otro: A confirmar.
+iPhone 6,Modulo:$7,Bateria:$8,Tapa trasera:$9,Camara:$10,Codec de Audio:$11, Mantenimiento:$12,No prende.No carga:,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 6s,Modulo:$13,Bateria:$14,Tapa trasera:$15,Camara:$16,Codec de Audio:$17, Mantenimiento:$18,No prende.No carga:,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 7,Modulo:$19,Bateria:$20,Tapa trasera:$20,Camara:$21,Codec de Audio:$22, Mantenimiento:$23,No prende.No carga:$24,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 7 Plus,Modulo:$25,Bateria:,Tapa trasera:$26,Camara:$27,Codec de Audio:$28, Mantenimiento:$29,No prende.No carga:$30,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 8,Modulo:$31,Bateria:$32,Tapa trasera:$33,Camara:$34,Codec de Audio:$35, Mantenimiento:$36,No prende.No carga:$37,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 8 Plus,Modulo:$38,Bateria:$39,Tapa trasera:$40,Camara:$41,Codec de Audio:$42, Mantenimiento:$43,No prende.No carga:$44,Mojado:A confirmar.,Otro:A confirmar.
+iPhone X,Modulo:$45,Bateria:$46,Tapa trasera:$47,Camara:$48,Codec de Audio:$49, Mantenimiento:$50,No prende.No carga:$51,Mojado:A confirmar.,Otro:A confirmar.
+iPhone Xs,Modulo:$52,Bateria:$53,Tapa trasera:$54,Camara:$55,Codec de Audio:$56, Mantenimiento:$57,No prende.No carga:$58,Mojado:A confirmar.,Otro:A confirmar.
+iPhone Xs Max,Modulo:$,Bateria:$,Tapa trasera:$,Camara:$,Codec de Audio:$, Mantenimiento:$,No prende.No carga:$,Mojado:A confirmar.,Otro:A confirmar.
+iPhone Xr,Modulo:$59,Bateria:$60,Tapa trasera:$61,Camara:$62,Codec de Audio:$63, Mantenimiento:$64,No prende.No carga:$65,Mojado:A confirmar.,Otro:A confirmar.
+iPhone SE2020,Modulo:$66,Bateria:$67,Tapa trasera:$68,Camara:$69,Codec de Audio:70, Mantenimiento:$71,No prende.No carga:$72,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 11,Modulo:$73,Bateria:$74,Tapa trasera:$75,Camara:$76,Codec de Audio:$77, Mantenimiento:$78,No prende.No carga:$79,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 11 PRO,Modulo:$80,Bateria:$81,Tapa trasera:$82,Camara:$83,Codec de Audio:$84, Mantenimiento:$85,No prende.No carga:$86,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 11 PRO MAX,Modulo:$87,Bateria:$88,Tapa trasera:$89,Camara:$90,Codec de Audio:$91, Mantenimiento:$92,No prende.No carga:$93,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 12 mini,Modulo:$94,Bateria:$95,Tapa trasera:$96,Camara:$97,Codec de Audio:$98, Mantenimiento:$99,No prende.No carga:$100,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 12,Modulo:$101,Bateria:$102,Tapa trasera:$103,Camara:$104,Codec de Audio:$105, Mantenimiento:$106,No prende.No carga:$107,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 12 PRO,Modulo:$108,Bateria:$109,Tapa trasera:$110,Camara:$111,Codec de Audio:$112, Mantenimiento:$113,No prende.No carga:$114,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 12 PRO MAX,Modulo:$115,Bateria:$116,Tapa trasera:$117,Camara:$118,Codec de Audio:$119, Mantenimiento:$120,No prende.No carga:$121,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 13 mini,Modulo:$122,Bateria:$123,Tapa trasera:$124,Camara:$125,Codec de Audio:$126, Mantenimiento:$127,No prende.No carga:$128,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 13,Modulo:$129,Bateria:$130,Tapa trasera:$131,Camara:$132,Codec de Audio:$133, Mantenimiento:$134,No prende.No carga:$135,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 13 PRO,Modulo:$136,Bateria:$137,Tapa trasera:$138,Camara:$139,Codec de Audio:$140, Mantenimiento:$141,No prende.No carga:$142,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 13 PRO MAX,Modulo:$250,Bateria:$147,Tapa trasera:$25,Camara:$87,Codec de Audio:$62, Mantenimiento:$20,No prende.No carga:$25,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 14,Modulo:$143,Bateria:$144,Tapa trasera:$145,Camara:$146,Codec de Audio:$147, Mantenimiento:$148,No prende.No carga:$149,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 14 Plus,Modulo:$150,Bateria:$151,Tapa trasera:$152,Camara:$153,Codec de Audio:$154, Mantenimiento:$155,No prende.No carga:$156,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 14 PRO,Modulo:$157,Bateria:$158,Tapa trasera:$159,Camara:$160,Codec de Audio:$161, Mantenimiento:$162,No prende.No carga:$163,Mojado:A confirmar.,Otro:A confirmar.
+iPhone 14 PRO MAX,Modulo:$164,Bateria:$165,Tapa trasera:$166,Camara:$167,Codec de Audio:$168, Mantenimiento:$169,No prende.No carga:$170,Mojado:A confirmar.,Otro:A confirmar.
+
